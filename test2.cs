@@ -16,6 +16,7 @@ namespace dictFinder
             foreach (var entry in frequencyDict)
             {
                 Console.WriteLine($"{entry.Key}: {entry.Value}");
+
             }
             
 

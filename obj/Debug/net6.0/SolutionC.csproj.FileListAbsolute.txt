@@ -1,0 +1,14 @@
+C:\Users\Vida\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.exe
+C:\Users\Vida\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.deps.json
+C:\Users\Vida\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.runtimeconfig.json
+C:\Users\Vida\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.dll
+C:\Users\Vida\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.pdb
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.AssemblyInfoInputs.cache
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.AssemblyInfo.cs
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.csproj.CoreCompileInputs.cache
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.dll
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\refint\SolutionC.dll
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.pdb
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.genruntimeconfig.cache
+C:\Users\Vida\source\repos\SolutionC\obj\Debug\net6.0\ref\SolutionC.dll

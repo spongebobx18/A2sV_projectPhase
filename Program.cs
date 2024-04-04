@@ -1,6 +1,11 @@
-﻿//using System;
+﻿
 
-class Programm
+
+
+
+using System;
+
+class Program
 {
     static bool IsPalindrome(string str)
     {
